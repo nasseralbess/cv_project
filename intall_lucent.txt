@@ -1,0 +1,1 @@
+pip install --quiet git+https://github.com/greentfrapp/lucent.git
