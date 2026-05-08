@@ -1,0 +1,14 @@
+torch
+torchvision
+ipykernel
+ipywidgets
+numpy
+pillow
+matplotlib
+networkx
+lucent
+opencv-python
+scipy
+fastapi
+uvicorn
+python-multipart

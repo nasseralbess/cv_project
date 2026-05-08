@@ -1,0 +1,17 @@
+__pycache__/
+.venv/
+.DS_Store
+results/
+final_results/
+test_results/
+generated/
+gif/
+block2/
+block2_post_pool/
+example_results/
+*.gif
+*.pth
+*.jpg
+!frog.jpg
+*.png
+test.ipynb
